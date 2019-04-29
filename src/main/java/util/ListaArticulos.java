@@ -17,6 +17,11 @@ public class ListaArticulos {
 		
 	}
 	
+	public void remove(int position) {
+		//TODO Eliminar el articulo en la posicion indicada
+		
+	}
+	
 	public void get(int position) {
 		//TODO Obtener artículo de la lista
 		

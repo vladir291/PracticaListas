@@ -34,9 +34,9 @@ public class Test1 {
 		
 
 		
-		System.out.println(s1.getOrder(1));
+		System.out.println(s1.getOrder(0));
 		
-		System.out.println(s1.getProduct(1));
+		System.out.println(s1.getProduct(0));
 		
 	}
 
